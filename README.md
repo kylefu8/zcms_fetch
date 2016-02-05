@@ -3,6 +3,7 @@ This is used for cathing zcms data.
 
 <pre>
 usage:
+------------------------------------------------------------------
 ecazhen@ecnshget03:/home/ecazhen/python/zcms> python zcms.py 
 please enter number 1 for search ip, 2 for list Pending Approvals
 1
