@@ -11,7 +11,7 @@ Please enter your ip....
 147.128.77.155
 Z0012/R&D HUB Shanghai Backend zone
 
-ecazhen@ecnshget03:/home/ecazhen/Music> python zcms.py 
+ecazhen@ecnshget03:/home/ecazhen/python/zcms> python zcms.py 
 please enter number 1 for search ip, 2 for list Pending Approvals
 2
 For all Shanghai HUB servers. Ensure all servers can reach VAS serivce.
